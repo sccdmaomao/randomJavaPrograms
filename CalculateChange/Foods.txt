@@ -1,0 +1,6 @@
+banana
+apple
+chicken
+pork
+beef
+sushi
